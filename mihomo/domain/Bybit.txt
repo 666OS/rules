@@ -1,0 +1,20 @@
+# NAME: Bybit
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:11:00
+# TOTAL: 16
++.byabcde.com
++.byapis.com
++.byapps.net
++.bybdc6.com
++.bybit-global.com
++.bybit.biz
++.bybit.cloud
++.bybit.com
++.bybitglobal.com
++.bycbe.com
++.bycsi.com
++.byd3c3.com
++.bymj.io
++.bytick.com
+bybit-exchange.github.io
+bybit.ada.support

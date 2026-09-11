@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": "yt3.googleusercontent.com",
+      "domain_suffix": [
+        "ads.youtube.com",
+        "ggpht.cn",
+        "ggpht.com",
+        "googlevideo.com",
+        "wide-youtube.l.google.com",
+        "withyoutube.com",
+        "youtu.be",
+        "youtube-nocookie.com",
+        "youtube-ui.l.google.com",
+        "youtubeeducation.com",
+        "youtubeembeddedplayer.googleapis.com",
+        "youtubefanfest.com",
+        "youtubegaming.com",
+        "youtubei.googleapis.com",
+        "youtubekids.com",
+        "youtubemobilesupport.com",
+        "yt.be",
+        "ytimg.com"
+      ]
+    }
+  ]
+}

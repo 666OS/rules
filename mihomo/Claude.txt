@@ -1,0 +1,7 @@
+# NAME: Claude
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:11:00
+# TOTAL: 3
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai

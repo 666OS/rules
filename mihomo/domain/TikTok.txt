@@ -1,0 +1,40 @@
+# NAME: TikTok
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:11:00
+# TOTAL: 36
++.analytics.tiktok.com
++.bytedapm.com
++.muscdn.com
++.musical.ly
++.tik-tokapi.com
++.tiktok-minis.com
++.tiktok-row.net
++.tiktok.com
++.tiktokcdn-eu.com
++.tiktokcdn-us.com
++.tiktokcdn-us.com.edgesuite.net
++.tiktokcdn.com
++.tiktokcdn.com.akamaized.net
++.tiktokcdn.com.edgesuite.net
++.tiktokd.net
++.tiktokd.org
++.tiktokeu-cdn.com
++.tiktokglobalshopv.com
++.tiktokminis.us
++.tiktokrow-cdn.com
++.tiktokv.com
++.tiktokv.com.edgekey.net
++.tiktokv.com.edgesuite.net
++.tiktokv.eu
++.tiktokv.us
++.tiktokw.eu
++.tiktokw.us
++.ttcdn-us.com
++.ttlivecdn.com
++.ttoverseaus.net
++.ttwstatic.com
+p16-tiktokcdn-com.akamaized.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com

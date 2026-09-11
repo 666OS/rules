@@ -1,0 +1,28 @@
+# NAME: AppleCN
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:10:57
+# TOTAL: 24
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.cn
+DOMAIN-SUFFIX,apple-fitness.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,cn.apple.com
+DOMAIN-SUFFIX,cn.ls.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,store.apple.com
+PROCESS-NAME,netbiosd
+PROCESS-NAME,trustd
+IP-CIDR,17.188.143.0/22,no-resolve
+IP-CIDR,17.188.170.0/22,no-resolve
+IP-CIDR,17.188.178.0/22,no-resolve
+IP-CIDR,17.57.145.0/22,no-resolve

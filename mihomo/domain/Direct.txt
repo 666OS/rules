@@ -1,0 +1,37 @@
+# NAME: Direct
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:09:37
+# TOTAL: 33
++.checkip.dyndns.org
++.checkip.synology.com
++.checkipv6.dyndns.org
++.cloudstudio.work
++.cocopilot.org
++.czzyvideo.com
++.ghp.ci
++.gradio.live
++.iqiyis.com
++.istoreos.com
++.kelee.one
++.musicbrainz.org
++.ngrok-free.app
++.ntp.org
++.quickconnect.to
++.speedtest.cn
++.steamcontent.com
++.synology.com
+captive.apple.com
+connect.qq.com
+connect.rom.miui.com
+connectivitycheck.gstatic.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.platform.hihonorcloud.com
+cp.cloudflare.com
+detectportal.firefox.com
+network-test.debian.org
+networkcheck.kde.org
+ping.archlinux.org
+speedtest.10086.cn
+www.gstatic.com
+www.msftconnecttest.com
+www.msftncsi.com

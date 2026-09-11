@@ -1,0 +1,17 @@
+# NAME: SystemOTA
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:10:56
+# TOTAL: 13
+DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,mesu.g.aaplimg.com
+DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp.g.aaplimg.com

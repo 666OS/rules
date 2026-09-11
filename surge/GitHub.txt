@@ -1,0 +1,30 @@
+# NAME: GitHub
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:11:00
+# TOTAL: 26
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubsupport.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,octocaptcha.com
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-KEYWORD,github

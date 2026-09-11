@@ -1,0 +1,14 @@
+# NAME: Gemini
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:11:00
+# TOTAL: 10
++.apis.google.com
++.bard.google.com
++.deepmind.com
++.deepmind.google
++.gemini.google.com
++.generativeai.google
++.proactivebackend-pa.googleapis.com
+ai.google.dev
+alkalimakersuite-pa.clients6.google.com
+makersuite.google.com

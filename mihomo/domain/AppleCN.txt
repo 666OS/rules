@@ -1,0 +1,43 @@
+# NAME: AppleCN
+# AUTHOR: YYDS666
+# UPDATED: 2026-09-12 04:10:57
+# TOTAL: 39
++.apple-cloudkit.com
++.apple-dns.cn
++.apple-fitness.com
++.apple-livephotoskit.com
++.apple.com.cn
++.apzones.com
++.cn-ssl.ls.apple.com
++.cn.apple.com
++.cn.ls.apple.com
++.ess.apple.com
++.gspe19-cn-ssl.ls.apple.com
++.icloud.com.cn
++.lcdn-locator.apple.com
++.lcdn-registration.apple.com
++.ls.apple.com
++.push-apple.com.akadns.net
++.push.apple.com
++.store.apple.com
+api.smoot.apple.cn
+api.smoot.apple.com
+appleid.apple.com
+captive.apple.com
+configuration.apple.com
+developer.apple.com
+deviceenrollment.apple.com
+deviceservices-external.apple.com
+devstreaming-cdn.apple.com
+fitness.apple.com
+gs-loc-cn.apple.com
+gs-loc.apple.com
+guzzoni.apple.com
+identity.apple.com
+idmsa.apple.com
+mask-h2.icloud.com
+mask.icloud.com
+mesu.apple.com
+setup.icloud.com
+smp-device-content.apple.com
+updates-http.cdn-apple.com

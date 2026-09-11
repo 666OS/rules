@@ -1,0 +1,36 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "analytics.tiktok.com",
+        "bytedapm.com",
+        "muscdn.com",
+        "musical.ly",
+        "tik-tokapi.com",
+        "tiktok-minis.com",
+        "tiktok-row.net",
+        "tiktok.com",
+        "tiktokcdn-eu.com",
+        "tiktokcdn-us.com",
+        "tiktokcdn-us.com.edgesuite.net",
+        "tiktokcdn.com",
+        "tiktokcdn.com.akamaized.net",
+        "tiktokcdn.com.edgesuite.net",
+        "tiktokd.net",
+        "tiktokd.org",
+        "tiktokeu-cdn.com",
+        "tiktokglobalshopv.com",
+        "tiktokminis.us",
+        "tiktokrow-cdn.com",
+        "tiktokw.eu",
+        "tiktokw.us",
+        "ttcdn-us.com",
+        "ttlivecdn.com",
+        "ttoverseaus.net",
+        "ttwstatic.com"
+      ],
+      "domain_keyword": "tiktokv"
+    }
+  ]
+}
