@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "appldnld-lb.apple.com.akadns.net",
+        "appldnld.apple.com",
+        "appldnld.apple.com.akadns.net",
+        "appldnld.g.aaplimg.com",
+        "gdmf.apple.com",
+        "gdmf.apple.com.akadns.net",
+        "mesu-cdn.apple.com.akadns.net",
+        "mesu-cdn.origin-apple.com.akadns.net",
+        "mesu.apple.com",
+        "mesu.g.aaplimg.com",
+        "ocsp-lb.apple.com.akadns.net",
+        "ocsp.apple.com",
+        "ocsp.g.aaplimg.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apple-cloudkit.com",
+        "apple-dns.cn",
+        "apple-fitness.com",
+        "apple-livephotoskit.com",
+        "apple.com.cn",
+        "apzones.com",
+        "cn-ssl.ls.apple.com",
+        "cn.apple.com",
+        "cn.ls.apple.com",
+        "ess.apple.com",
+        "gspe19-cn-ssl.ls.apple.com",
+        "icloud.com.cn",
+        "lcdn-locator.apple.com",
+        "lcdn-registration.apple.com",
+        "ls.apple.com",
+        "push-apple.com.akadns.net",
+        "push.apple.com",
+        "store.apple.com"
+      ]
+    }
+  ]
+}
