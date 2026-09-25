@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "checkip.dyndns.org",
+        "checkip.synology.com",
+        "checkipv6.dyndns.org",
+        "cloudstudio.work",
+        "cocopilot.org",
+        "czzyvideo.com",
+        "ghp.ci",
+        "gradio.live",
+        "iqiyis.com",
+        "istoreos.com",
+        "kelee.one",
+        "musicbrainz.org",
+        "ngrok-free.app",
+        "ntp.org",
+        "quickconnect.to",
+        "speedtest.cn",
+        "steamcontent.com",
+        "synology.com"
+      ]
+    }
+  ]
+}
