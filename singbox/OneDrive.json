@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "1drv.com",
+        "1drv.ms",
+        "livefilestore.com",
+        "storage.live.com"
+      ],
+      "domain_keyword": "onedrive"
+    }
+  ]
+}
